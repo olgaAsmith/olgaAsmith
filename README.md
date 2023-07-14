@@ -2,7 +2,7 @@
 
 
 
-#### Junior Web-developer // Начинающий Веб-разработчик
+#### Junior Web-developer
 
 ---
 
