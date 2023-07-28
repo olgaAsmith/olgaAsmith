@@ -3,7 +3,7 @@
 :star2::star2::star2::star2::star2:
 
 
-#### Junior Web-developer
+#### Web-developer
 
 ---
 
