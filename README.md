@@ -7,14 +7,6 @@
 
 ---
 
-**Мои :dart::**
-- :tiger2: продолжать осваивать WEB технологии в совершенстве
-- :dolphin: писать чистый и читабельный код
-- :leopard: работать с опытными разработчиками
-- :racehorse: узнавать и изучать новые библиотеки и фреймворки
-
----
-
 **My :dart::**
 - :tiger2: get to be a master in WEB technologies
 - :dolphin: write clean and readable code
