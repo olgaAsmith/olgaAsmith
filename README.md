@@ -3,15 +3,8 @@
 :star2::star2::star2::star2::star2:
 
 
-#### Web-developer
+#### Frontend-developer
 
----
-
-**My :dart::**
-- :tiger2: get to be a master in WEB technologies
-- :dolphin: write clean and readable code
-- :leopard: work with skilled developers
-- :racehorse: learning new libraries and frameworks
 ---
 
 **My skills :point_down:**
