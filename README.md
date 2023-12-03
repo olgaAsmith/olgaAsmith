@@ -1,4 +1,4 @@
-## Hi there, I'm Olga 👋:sunglasses:
+## Hi there, I'm Olga 👋 :sunglasses:
 
 :star2::star2::star2::star2::star2:
 
